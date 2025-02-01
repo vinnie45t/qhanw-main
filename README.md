@@ -3,8 +3,7 @@
 - 🎉 技术栈 NodeJs、React、Typescript、Electron等。
 - 🌱 目前正在学习前端自动化测试方面知识。
 - 💬 如何联系我: 微信 `AsQhan` 或邮箱：<a mailto="whenhan@foxmail.com">whenhan@foxmail.com</a>
-
-更多详细信息：http://qhan.wang
+详细信息：http://qhan.wang
 
 ### 📊 Github Stats<a href='https://github.com/qhanw/github-stats-visual'>
 ![](https://raw.githubusercontent.com/qhanw/github-stats-visual/master/generated/overview.svg#gh-light-mode-only)
